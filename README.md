@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Abrar-Ahmed-Khan
 - 👀 I’m interested in coding, machine learning and data science in general.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on practicing python.
-- 📫 Contact: facebook- www.facebook.com/ibrarmanj
-- 📫 Contact: twitter- www.twitter.com/ibrarmanj
-- 📫 Contact: instagram- www.instagram.com/ibrar.manj
+- 🌱 Just completed a six month Machine Learning, AI and Data Science course.
+- 💞️ Looking for an internship to get hands on experience.
+- 📫 linkedIn: https://www.linkedin.com/in/ibrarmanj
 
 <!---
 Abrar-Ahmed-Khan/Abrar-Ahmed-Khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
