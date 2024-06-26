@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abrar-Ahmed-Khan
+- 👋 Hi, I’m @Abrar_Ahmed_Khan
 - 👀 I’m interested in coding, machine learning and data science in general.
 - 🌱 Just completed a six month Machine Learning, AI and Data Science course.
 - 💞️ Looking for an internship to get hands on experience.
